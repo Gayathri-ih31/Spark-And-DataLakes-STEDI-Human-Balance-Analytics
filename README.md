@@ -25,4 +25,13 @@ Some of the early adopters have agreed to share their data for research purposes
 As a data engineer on the STEDI Step Trainer team, I'll need to extract the data produced by the STEDI Step Trainer sensors and the mobile app, and curate them into a data lakehouse solution on AWS so that Data Scientists can train the learning model.
 
 
+## Project Environment
+* Python and Spark
+* AWS Glue
+* AWS Athena
+* AWS S3
+
+
+
+
 
